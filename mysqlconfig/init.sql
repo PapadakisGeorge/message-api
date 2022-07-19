@@ -14,3 +14,4 @@ INSERT INTO messages.message (id, message_body, message_sender, message_title) V
 (1, 'My name is George', 'George', 'Hi there'),
 (2, 'My name is Kostas', 'Kostas', 'Hi there');
 
+d

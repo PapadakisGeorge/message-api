@@ -1,8 +1,8 @@
-package com.example.messageapi.services;
+package com.example.message.api.services;
 
-import com.example.messageapi.dto.MessageCreationRequest;
-import com.example.messageapi.model.Message;
-import com.example.messageapi.repository.MessageRepository;
+import com.example.message.api.repository.MessageRepository;
+import com.example.message.api.dto.MessageCreationRequest;
+import com.example.message.api.model.Message;
 import org.springframework.stereotype.Service;
 
 import javax.validation.Valid;

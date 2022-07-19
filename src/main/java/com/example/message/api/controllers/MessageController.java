@@ -1,8 +1,8 @@
-package com.example.messageapi.controllers;
+package com.example.message.api.controllers;
 
-import com.example.messageapi.dto.MessageCreationRequest;
-import com.example.messageapi.model.Message;
-import com.example.messageapi.services.MessageServiceImpl;
+import com.example.message.api.dto.MessageCreationRequest;
+import com.example.message.api.model.Message;
+import com.example.message.api.services.MessageServiceImpl;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 

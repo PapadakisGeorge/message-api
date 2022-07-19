@@ -1,4 +1,4 @@
-package com.example.messageapi.model;
+package com.example.message.api.model;
 
 import lombok.*;
 import org.hibernate.Hibernate;

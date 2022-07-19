@@ -1,7 +1,7 @@
 services:
   mysql:
     image: mysql:5.7
-    container_name: mysql-message-service
+    container_name: mysql-message-api
     environment:
       MYSQL_DATABASE: messages
       MYSQL_ROOT_PASSWORD: passsword

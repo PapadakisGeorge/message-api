@@ -1,6 +1,6 @@
-package com.example.messageapi.repository;
+package com.example.message.api.repository;
 
-import com.example.messageapi.model.Message;
+import com.example.message.api.model.Message;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

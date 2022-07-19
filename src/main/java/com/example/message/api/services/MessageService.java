@@ -1,7 +1,7 @@
-package com.example.messageapi.services;
+package com.example.message.api.services;
 
-import com.example.messageapi.dto.MessageCreationRequest;
-import com.example.messageapi.model.Message;
+import com.example.message.api.dto.MessageCreationRequest;
+import com.example.message.api.model.Message;
 
 import javax.validation.Valid;
 import java.util.List;
